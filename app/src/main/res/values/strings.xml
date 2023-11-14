@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Period_Calcult</string>
+    <string name="Btn_Login">Login</string>
+    <string name="Btn_Registro">Registro</string>
+
+    <!--ACTIVIDAD REGISTRO-->
+    <string name="CrearCuentaTXT">Crear una cuenta</string>
+    <string name="NombreEt">Nombres</string>
+    <string name="CorreoEt">Correo electrónico</string>
+    <string name="ContaseñaEt">Contraseña</string>
+    <string name="ConfirmarContraseñaEt">Confirmar contraseña</string>
+    <string name="RegistrarUsuario">Registrar</string>
+    <string name="TengounacuentaTXT">Tengo una cuenta</string>
+
+    <!--MENÚ PRINCIPAL-->
+    <string name="CerrarSesion">Salir</string>
+
+    <!--ACTIVIDAD LOGIN-->
+    <string name="IniciarSesionTXT">Iniciar sesión</string>
+    <string name="CorreoLogin">Correo</string>
+    <string name="PassLogin">Contraseña</string>
+    <string name="Btn_Logeo">Ingresar</string>
+    <string name="UsuarioNuevoTXT">¿No tienes una cuenta?. Regístrate</string>
+</resources>

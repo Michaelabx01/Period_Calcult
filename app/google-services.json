@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1030860224473",
+    "project_id": "period-calcult",
+    "storage_bucket": "period-calcult.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030860224473:android:b01c48af706ee2861b4bc8",
+        "android_client_info": {
+          "package_name": "com.mvaldiviezoutp.period_calcult"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKoQ29SYXx0rDaTjeBic1bA3Z7xT-GXAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
